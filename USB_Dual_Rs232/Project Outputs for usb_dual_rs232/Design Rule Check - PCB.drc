@@ -1,0 +1,51 @@
+Protel Design System Design Rule Check
+PCB File : Z:\10.10.10.5\Hardware\trunk\USB_Dual_Rs232\PCB.PcbDoc
+Date     : 2014-07-04
+Time     : 10:20:35
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
+   Violation between Track (661.5mil,12mil)(661.5mil,240mil)  Top Overlay and 
+                     Pad CON1-5(657.5mil,96mil)  Multi-Layer
+   Violation between Track (171.5mil,12mil)(171.5mil,240mil)  Top Overlay and 
+                     Pad CON1-5(180.5mil,96mil)  Multi-Layer
+Rule Violations :2
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=100mil) (Preferred=12mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=9mil) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 2
+Time Elapsed        : 00:00:01

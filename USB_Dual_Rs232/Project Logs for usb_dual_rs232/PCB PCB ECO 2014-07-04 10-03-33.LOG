@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=D+ Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=D- Pin=D2-2
+Removed Member From Class: ClassName=schemat Member=D1
+Removed Member From Class: ClassName=schemat Member=D2
+Change Component Comment : Designator=Y1 Old Comment=16Mhz New Comment=6Mhz
